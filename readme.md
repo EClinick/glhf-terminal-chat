@@ -14,6 +14,9 @@ To test it via talking to it in the terminal
 
 Create an account with glhf.chat, go to profile, select API settings, and copy API Key and put it in .env following the ```.env.example```
 
+https://glhf.chat/
+
+
 ## Example
 
 ```bash
